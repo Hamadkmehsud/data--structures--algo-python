@@ -1,0 +1,1 @@
+str = 'A,n,*,/a,p,p,l,l,e,*,a,/,day,*,*,k,e,e,p,s,/,*,a,/,/,d,o,c,t,o,r,*,a,w,a,y'
